@@ -1,6 +1,7 @@
 #     Sample Short Report
-#          File: ping statistics :-
+#              File: web_browsing_sample.pcap 
 #              Tool Used: Wireshark
+#              Capture Interface: eth1
 #              Duration: 89139 ms
 #              Packets Captured: 90
 #              loss packet :- 0 %
