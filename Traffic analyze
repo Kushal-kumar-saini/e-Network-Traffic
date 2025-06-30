@@ -6,7 +6,11 @@
 #              loss packet :- 0 %
 #              Date: June 30, 2025
 ____________________________________________________________________________
-
+#     Observation :- 
+#     Normal browsing behavior detected (TCP/UDP/HTTP/HTTPS/SMTP) etc.
+#     No suspicious traffic or malformed packets found while scanning.
+#     TLS and DNS activity suggests use of secure and popular services.
+_____________________________________________________________________________
 #     Common Protocols in Network Traffic
 #     Layer	  Protocol	               Purpose
 #       3  :- IP	               ( Internet communication )
