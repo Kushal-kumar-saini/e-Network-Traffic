@@ -1,3 +1,12 @@
+#     Sample Short Report
+#          File: ping statistics :-
+#              Tool Used: Wireshark
+#              Duration: 89139 ms
+#              Packets Captured: 90
+#              loss packet :- 0 %
+#              Date: June 30, 2025
+____________________________________________________________________________
+
 #     Common Protocols in Network Traffic
 #     Layer	  Protocol	               Purpose
 #       3  :- IP	               ( Internet communication )
@@ -8,4 +17,4 @@
 #       7  :- FTP	               ( File transfer )
 #       7	 :- SSH	               ( Secure remote login )
 #       7  :- TLS/SSL	           ( Encrypted communication )
-
+_____________________________________________________________________________
