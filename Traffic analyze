@@ -1,0 +1,11 @@
+#     Common Protocols in Network Traffic
+#     Layer	  Protocol	               Purpose
+#       3  :- IP	               ( Internet communication )
+#       4	 :- TCP                ( Reliable connection (e.g., HTTP, SSH) )
+#       4	 :- UDP	               ( Fast, connectionless (e.g., DNS, VoIP) )
+#       7	 :- HTTP/HTTPS	       ( Web browsing )
+#       7	 :- DNS	               ( Resolving domain names )
+#       7  :- FTP	               ( File transfer )
+#       7	 :- SSH	               ( Secure remote login )
+#       7  :- TLS/SSL	           ( Encrypted communication )
+
